@@ -1,0 +1,74 @@
+/*------------------------------------*\
+	Theme Name: EuVouLa
+	Date: November 2015
+	Description: Event Builder WordPress Theme.
+	Version: 1.0.14
+	Author: DPW
+	Author URI: http://themesdojo.com
+	License URI: http://themeforest.net/licenses/regular_extended
+	License: Commercial
+	Theme URI: http://themeforest.net
+	Tags: black, green, white, light, dark, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+/*------------------------------------*/
+
+
+/*------------------------------------*\
+    Eu Vou La
+/*------------------------------------*/
+
+
+
+.header--euvoula{
+    background-color: #431884;
+
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sticky-menu .header--euvoula{
+    display: none;
+}
+
+.header--euvoula--main-menu{
+    display: none;
+}
+
+.sticky-menu .header--euvoula--main-menu{
+    display: block;
+}
+
+.header--euvoula--logo{
+    max-height: 200px;
+    transform: rotate(-5deg);
+}
+
+.header--euvoula--logo img{
+    max-height: 200px;
+}
+
+.header--euvoula--side__a{
+    width: 300px;
+    height: 300px;
+    background-image: url('./images/euvoula/header_background-a.png');
+    transform: rotate(-90deg);
+}
+
+.header--euvoula--side__b{
+    width: 300px;
+    height: 300px;
+    background-image: url('./images/euvoula/header_background-b.png');
+    transform: rotate(-90deg);
+}
+
+.item-block-content {
+    float: left;
+    width: 100%;
+    padding: 30px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    background-color: #fff;
+    position: relative;
+    box-shadow: 1px 1px 1px 1px #00000017;
+}

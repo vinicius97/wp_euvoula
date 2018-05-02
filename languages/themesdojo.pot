@@ -1,0 +1,2134 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EuVouLa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-02 01:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: taxonomy-event_cat.php:921 taxonomy-event_loc.php:938
+#: taxonomy-event_tag.php:257 taxonomy-event_tag.php:528
+#: partials/part-filter-events-list.php:270
+#: partials/part-filter-events-list.php:482
+#: partials/part-filter-past-events-list.php:270
+#: partials/part-filter-past-events-list.php:482
+#: templates/template-all-events.php:1040
+#: templates/template-past-events.php:957 widgets/td_upcoming_events.php:154
+msgid " "
+msgstr ""
+
+#: taxonomy-event_cat.php:909 taxonomy-event_loc.php:926
+#: taxonomy-event_place.php:232 taxonomy-event_tag.php:245
+#: taxonomy-event_tag.php:516 inc/td-events-upcoming-filter.php:220
+#: partials/part-filter-events-list.php:258
+#: partials/part-filter-events-list.php:470
+#: partials/part-filter-past-events-list.php:258
+#: partials/part-filter-past-events-list.php:470
+#: templates/template-all-events-by-month.php:465
+#: templates/template-all-events.php:1028
+#: templates/template-past-events.php:945 widgets/td_upcoming_events.php:142
+#: inc/shortcodes/td-shortcode-upcoming-events-v2.php:128
+msgid " - "
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: inc/td-menu-walker.php:147
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: inc/td-menu-walker.php:151
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: taxonomy-event_cat.php:913 taxonomy-event_cat.php:917
+#: taxonomy-event_cat.php:925 taxonomy-event_loc.php:930
+#: taxonomy-event_loc.php:934 taxonomy-event_loc.php:942
+#: taxonomy-event_place.php:236 taxonomy-event_tag.php:249
+#: taxonomy-event_tag.php:253 taxonomy-event_tag.php:261
+#: taxonomy-event_tag.php:520 taxonomy-event_tag.php:524
+#: taxonomy-event_tag.php:532 inc/td-events-upcoming-filter.php:224
+#: partials/part-filter-events-list.php:262
+#: partials/part-filter-events-list.php:266
+#: partials/part-filter-events-list.php:274
+#: partials/part-filter-events-list.php:474
+#: partials/part-filter-events-list.php:478
+#: partials/part-filter-events-list.php:486
+#: partials/part-filter-past-events-list.php:262
+#: partials/part-filter-past-events-list.php:266
+#: partials/part-filter-past-events-list.php:274
+#: partials/part-filter-past-events-list.php:474
+#: partials/part-filter-past-events-list.php:478
+#: partials/part-filter-past-events-list.php:486
+#: templates/template-all-events-by-month.php:469
+#: templates/template-all-events.php:1032
+#: templates/template-all-events.php:1036
+#: templates/template-all-events.php:1044
+#: templates/template-past-events.php:949
+#: templates/template-past-events.php:953
+#: templates/template-past-events.php:961 widgets/td_upcoming_events.php:146
+#: widgets/td_upcoming_events.php:150 widgets/td_upcoming_events.php:158
+#: inc/shortcodes/td-shortcode-upcoming-events-v2.php:132
+msgid ", "
+msgstr ""
+
+#: functions.php:2332
+msgid "A special image for each user"
+msgstr ""
+
+#: templates/template-my-account.php:93 templates/template-my-account.php:115
+msgid "Account Funds"
+msgstr ""
+
+#: templates/template-my-account.php:108 templates/template-my-account.php:1949
+msgid "Account Settings"
+msgstr ""
+
+#: templates/template-my-account.php:1957
+msgid "Account updated successful."
+msgstr ""
+
+#: inc/td-upload-event-form.php:1192
+msgid "Add amenities separated by comma."
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-dropcap.php:28
+msgid "Add character here."
+msgstr ""
+
+#: templates/template-edit-event.php:536
+#: templates/template-upload-event.php:661
+msgid "Add crowd percent (ex: 80)"
+msgstr ""
+
+#: inc/td-upload-event-form.php:73 templates/template-edit-event.php:680
+msgid "Add day"
+msgstr ""
+
+#: partials/part-header-two.php:137
+msgid "Add Event"
+msgstr ""
+
+#: inc/lib/td-post-meta.php:88
+msgid "Add here quote author."
+msgstr ""
+
+#: inc/lib/td-post-meta.php:81
+msgid "Add here the quote."
+msgstr ""
+
+#: templates/template-edit-event.php:549
+#: templates/template-upload-event.php:674
+msgid "Add involvement percent (ex: 80)"
+msgstr ""
+
+#: partials/part-header-two.php:146
+msgid "Add Listing"
+msgstr ""
+
+#: inc/custom-posts/td-post-schedule.php:8
+msgid "Add New Day"
+msgstr ""
+
+#: partials/part-header-one.php:170
+msgid "Add New Event"
+msgstr ""
+
+#: templates/template-my-account.php:918
+msgid "Add New Plan"
+msgstr ""
+
+#: templates/template-edit-event.php:562
+#: templates/template-upload-event.php:687
+msgid "Add preparation percent (ex: 80)"
+msgstr ""
+
+#: templates/template-edit-event.php:2024
+msgid "Add tag separated by comma."
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-quote.php:28
+msgid "Add text here."
+msgstr ""
+
+#: templates/template-edit-event.php:523
+#: templates/template-upload-event.php:648
+msgid ""
+"Add TicketTailor or Tickera shortcode here (<a href=\"http://www."
+"tickettailor.com/?rf=ur8178-ex\">https://www.tickettailor.com</a> or <a "
+"href=\"https://tickera.com/\">https://tickera.com/</a>)"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-title-section.php:32
+msgid "Add title here."
+msgstr ""
+
+#: templates/template-edit-event.php:575
+#: templates/template-upload-event.php:700
+msgid "Add transformation percent (ex: 80)"
+msgstr ""
+
+#: functions.php:2267
+msgid "Additional User Meta"
+msgstr ""
+
+#: inc/td-upload-event-form.php:783 inc/td-upload-event-form.php:838
+#: templates/template-edit-event.php:1604
+#: templates/template-edit-event.php:1659
+msgid "Address"
+msgstr ""
+
+#: templates/template-my-account.php:1093
+#: templates/template-price-plans.php:123
+#: inc/shortcodes/td-shortcode-price-plans.php:70
+msgid "Admin Moderated"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:485 taxonomy-event_cat-version-3.php:432
+#: taxonomy-event_cat.php:544 taxonomy-event_loc-version-2.php:505
+#: taxonomy-event_loc-version-3.php:451 taxonomy-event_loc.php:562
+#: taxonomy-event_tag.php:1136 partials/part-sliders.php:685
+#: templates/template-all-events-version-2.php:641
+#: templates/template-all-events-version-3.php:587
+#: templates/template-past-events-version-2.php:641
+#: templates/template-past-events-version-3.php:587
+#: templates/template-past-events.php:576
+msgid "Advanced Filters"
+msgstr ""
+
+#: partials/part-login-register.php:583
+msgid "Agree to our Terms & Conditions"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-title-section.php:47
+msgid "Align"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1166 inc/td-upload-event-form.php:1185
+msgid "Amenities"
+msgstr ""
+
+#: templates/template-my-account.php:1238
+#: templates/template-price-plans.php:254
+msgid "Amenitites"
+msgstr ""
+
+#: taxonomy-event_loc-version-2.php:158 taxonomy-event_loc-version-3.php:104
+#: taxonomy-event_loc.php:215 taxonomy-event_tag.php:747
+#: templates/template-all-events-version-2.php:252
+#: templates/template-all-events-version-3.php:198
+#: templates/template-past-events-version-2.php:252
+#: templates/template-past-events-version-3.php:198
+#: templates/template-past-events.php:187
+msgid "Any Category"
+msgstr ""
+
+#: taxonomy-event_tag.php:782 templates/template-all-events-version-2.php:287
+#: templates/template-all-events-version-3.php:233
+#: templates/template-past-events-version-2.php:287
+#: templates/template-past-events-version-3.php:233
+#: templates/template-past-events.php:222
+msgid "Any Location"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:145 taxonomy-event_cat-version-3.php:91
+#: taxonomy-event_cat.php:203 taxonomy-event_loc-version-2.php:145
+#: taxonomy-event_loc-version-3.php:91 taxonomy-event_loc.php:202
+#: taxonomy-event_tag.php:734 templates/template-all-events-version-2.php:239
+#: templates/template-all-events-version-3.php:185
+#: templates/template-past-events-version-2.php:239
+#: templates/template-past-events-version-3.php:185
+#: templates/template-past-events.php:174
+msgid "Any Time"
+msgstr ""
+
+#: functions.php:488 functions.php:498 functions.php:508
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1374 templates/template-my-account.php:1767
+msgid "Approve"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:205
+msgid "April"
+msgstr ""
+
+#: partials/part-login-register.php:670
+msgid "Assign this plan now"
+msgstr ""
+
+#: inc/lib/td-post-meta.php:53
+msgid "Audio Settings"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:209
+msgid "August"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1061 inc/td-my-account-pagination.php:1087
+#: templates/template-my-account.php:1420
+msgid "available"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-title-section.php:40
+msgid "Awesome section description goes here."
+msgstr ""
+
+#: functions.php:1255 functions.php:1456
+msgid "AwesomeFont code:"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1018 templates/template-edit-event.php:1839
+msgid "Behance"
+msgstr ""
+
+#: inc/td-page-meta.php:38
+msgid "Big Map"
+msgstr ""
+
+#: archive.php:33
+msgid "Blog Archives: "
+msgstr ""
+
+#: functions.php:450
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/custom-posts/td-post-schedule.php:7
+msgctxt "book"
+msgid "Add New Day"
+msgstr ""
+
+#: templates/template-my-account.php:1198
+msgid "Book Online"
+msgstr ""
+
+#: partials/part-add-favorites.php:37
+msgid "Bookmarks"
+msgstr ""
+
+#: templates/template-price-plans.php:275
+#: inc/shortcodes/td-shortcode-price-plans.php:214
+msgid "Buy now"
+msgstr ""
+
+#: templates/template-upload-event.php:641
+msgid "Buy Ticket Shortcode (Tickera or TicketTailor):"
+msgstr ""
+
+#: templates/template-edit-event.php:516
+msgid "Buy Ticket Shortcode (Tickera or TicketTailor:"
+msgstr ""
+
+#: inc/td-menu-walker.php:282
+msgid "Cancel"
+msgstr ""
+
+#: category.php:23 taxonomy-event_cat-version-2.php:121
+#: taxonomy-event_cat-version-3.php:67 taxonomy-event_cat.php:99
+msgid "Category"
+msgstr ""
+
+#: templates/template-edit-event.php:269
+#: templates/template-upload-event.php:393
+msgid "Category:"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-dropcap.php:25
+#: inc/shortcodes/td-shortcode-dropcap.php:27
+msgid "Character"
+msgstr ""
+
+#: partials/part-login-register.php:1300
+msgid "Check your email for new password."
+msgstr ""
+
+#: search.php:293
+msgid "Check your spelling."
+msgstr ""
+
+#: templates/template-upload-event.php:279
+#: templates/template-upload-event.php:350
+msgid "Checking slot availability."
+msgstr ""
+
+#: partials/part-login-register.php:432
+msgid "Choose a plan:"
+msgstr ""
+
+#: templates/template-my-account.php:1295
+#: templates/template-upload-event.php:237
+msgid "choose one from our Plans."
+msgstr ""
+
+#: inc/td-upload-event-form.php:826 templates/template-edit-event.php:1647
+msgid "City"
+msgstr ""
+
+#: single-event.php:33 partials/part-login-register.php:19
+#: partials/part-login-register.php:129 partials/part-login-register.php:339
+#: partials/part-login-register.php:1268
+msgid "close"
+msgstr ""
+
+#: templates/template-edit-event.php:220 templates/template-upload-event.php:97
+msgid "Congratulations."
+msgstr ""
+
+#: partials/part-login-register.php:40
+msgid "Congratulations. Your payment went through!"
+msgstr ""
+
+#: inc/td-upload-event-form.php:868 templates/template-edit-event.php:1689
+msgid "Contact Details"
+msgstr ""
+
+#: single-event.php:31 single-event.php:1190 single-event.php:1408
+msgid "Contact For More Details"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-dropcap.php:19
+#: inc/shortcodes/td-shortcode-events-categories-v1.php:65
+#: inc/shortcodes/td-shortcode-events-categories-v2.php:126
+#: inc/shortcodes/td-shortcode-events-locations.php:96
+#: inc/shortcodes/td-shortcode-partners.php:73
+#: inc/shortcodes/td-shortcode-price-plans.php:312
+#: inc/shortcodes/td-shortcode-quote.php:19
+#: inc/shortcodes/td-shortcode-testimonials.php:78
+#: inc/shortcodes/td-shortcode-title-section.php:23
+#: inc/shortcodes/td-shortcode-upcoming-events-v2.php:247
+#: inc/shortcodes/td-shortcode-upcoming-events.php:214
+msgid "Content"
+msgstr ""
+
+#: inc/td-upload-event-form.php:802 templates/template-edit-event.php:1623
+msgid "Country"
+msgstr ""
+
+#: inc/td-upload-event-form.php:157 templates/template-edit-event.php:757
+#: templates/template-my-account.php:1188
+#: templates/template-price-plans.php:214
+#: inc/shortcodes/td-shortcode-price-plans.php:183
+msgid "Cover Image"
+msgstr ""
+
+#: inc/td-menu-walker.php:238
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: archive.php:25
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:223
+msgid "Day"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1021 templates/template-my-account.php:1005
+#: templates/template-my-account.php:1380
+#: inc/shortcodes/td-shortcode-price-plans.php:90
+msgid "Days"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:124 inc/td-my-account-pagination.php:831
+#: inc/td-my-account-pagination.php:1358 templates/template-my-account.php:733
+#: templates/template-my-account.php:1751
+msgid "days"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:213
+msgid "December"
+msgstr ""
+
+#: functions.php:1233 functions.php:1337 functions.php:1434 functions.php:1543
+msgid "Default"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:842 inc/td-my-account-pagination.php:1369
+#: inc/td-upload-event-form.php:186 inc/td-upload-event-form.php:295
+#: inc/td-upload-event-form.php:368 inc/td-upload-event-form.php:515
+#: inc/td-upload-event-form.php:676 templates/template-edit-event.php:790
+#: templates/template-edit-event.php:804 templates/template-edit-event.php:936
+#: templates/template-edit-event.php:1015
+#: templates/template-edit-event.php:1171
+#: templates/template-edit-event.php:1252
+#: templates/template-edit-event.php:1421
+#: templates/template-edit-event.php:1497 templates/template-my-account.php:744
+#: templates/template-my-account.php:1762
+#: templates/template-my-account.php:1995
+msgid "Delete"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1078 templates/template-edit-event.php:1899
+msgid "Delicious"
+msgstr ""
+
+#: inc/td-menu-walker.php:250
+msgid "Description"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-title-section.php:41
+msgid "Description for foo param."
+msgstr ""
+
+#: templates/template-edit-event.php:483
+#: templates/template-upload-event.php:607
+msgid "Description:"
+msgstr ""
+
+#: templates/template-my-account.php:2062
+msgid "Display Name"
+msgstr ""
+
+#. Author of the theme
+msgid "DPW"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:65 inc/td-my-account-pagination.php:352
+#: templates/template-my-account.php:197
+msgid "Draft"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1006 templates/template-edit-event.php:1827
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:2319 templates/template-my-account.php:2133
+msgid "Dribbble link"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-dropcap.php:16
+msgid "Dropcap"
+msgstr ""
+
+#: inc/td-upload-event-form.php:903 templates/template-edit-event.php:1724
+msgid "E-Mail"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:233 inc/td-my-account-pagination.php:550
+#: templates/template-my-account.php:395
+msgid "Edit"
+msgstr ""
+
+#: inc/custom-posts/td-post-schedule.php:9
+msgid "Edit Day"
+msgstr ""
+
+#: inc/td-menu-walker.php:190 inc/td-menu-walker.php:192
+msgid "Edit Menu Item"
+msgstr ""
+
+#: single-event.php:2599
+msgid "Email"
+msgstr ""
+
+#: partials/part-login-register.php:1134 partials/part-login-register.php:1147
+msgid "Email exists. Please try another one."
+msgstr ""
+
+#: single-event.php:55
+msgid "Email*"
+msgstr ""
+
+#: partials/part-login-register.php:372 partials/part-login-register.php:1279
+msgid "Email:"
+msgstr ""
+
+#: inc/lib/td-post-meta.php:40 inc/lib/td-post-meta.php:60
+msgid "Embedded Code"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1370 templates/template-edit-event.php:2196
+msgid "Enable Streetview"
+msgstr ""
+
+#: templates/home-euvoula.php:106
+msgid "Encontrar!"
+msgstr ""
+
+#: single-event.php:295
+msgid "Ends:"
+msgstr ""
+
+#. Name of the theme
+msgid "EuVouLa"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:694 inc/td-my-account-pagination.php:1221
+#: templates/template-my-account.php:596 templates/template-my-account.php:1614
+msgid "Event"
+msgstr ""
+
+#. Description of the theme
+msgid "Event Builder WordPress Theme."
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-events-categories-v1.php:62
+msgid "Event Categories Version 1"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-events-categories-v2.php:123
+msgid "Event Categories Version 2"
+msgstr ""
+
+#: single-event.php:907
+msgid "Event Details & Reservation"
+msgstr ""
+
+#: templates/template-edit-event.php:443
+#: templates/template-upload-event.php:567
+msgid "Event End Date:"
+msgstr ""
+
+#: templates/template-edit-event.php:455
+#: templates/template-upload-event.php:579
+msgid "Event End Time:"
+msgstr ""
+
+#: single-event.php:424
+msgid "Event Ended"
+msgstr ""
+
+#: functions.php:468
+msgid "Event Page Sidebar"
+msgstr ""
+
+#: single-event.php:1469 inc/td-upload-event-form.php:19
+#: templates/template-edit-event.php:591
+msgid "Event Schedule"
+msgstr ""
+
+#: single-event.php:1590
+msgid "Event Speakers"
+msgstr ""
+
+#: templates/template-edit-event.php:403
+#: templates/template-upload-event.php:527
+msgid "Event Start Date:"
+msgstr ""
+
+#: templates/template-edit-event.php:415
+#: templates/template-upload-event.php:539
+msgid "Event Start Time:"
+msgstr ""
+
+#: single-event.php:420
+msgid "Event Started"
+msgstr ""
+
+#: single-event.php:1899
+msgid "Event Stats"
+msgstr ""
+
+#: templates/template-edit-event.php:529
+#: templates/template-upload-event.php:654
+msgid "Event Stats - Crowd"
+msgstr ""
+
+#: templates/template-edit-event.php:542
+#: templates/template-upload-event.php:667
+msgid "Event Stats - Involvement"
+msgstr ""
+
+#: templates/template-edit-event.php:555
+#: templates/template-upload-event.php:680
+msgid "Event Stats - Preparation"
+msgstr ""
+
+#: templates/template-edit-event.php:568
+#: templates/template-upload-event.php:693
+msgid "Event Stats - Transformation"
+msgstr ""
+
+#: single-event.php:708
+msgid "Event Summary"
+msgstr ""
+
+#: templates/template-edit-event.php:226
+msgid "Event updated successfuly."
+msgstr ""
+
+#: templates/template-upload-event.php:103
+msgid "Event uploaded successfuly."
+msgstr ""
+
+#: functions.php:268
+msgid "EventBuilder"
+msgstr ""
+
+#: templates/template-price-plans.php:204
+#: inc/shortcodes/td-shortcode-price-plans.php:173
+msgid "Events"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-events-locations.php:93
+msgid "Events Locations"
+msgstr ""
+
+#: templates/template-my-account.php:1065
+#: templates/template-my-account.php:1277
+msgid "Events Slots Available:"
+msgstr ""
+
+#: templates/template-my-account.php:1414
+msgid "Events Slots:"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:124 inc/td-my-account-pagination.php:831
+#: inc/td-my-account-pagination.php:1358 templates/template-my-account.php:733
+#: templates/template-my-account.php:1751
+msgid "Expires in"
+msgstr ""
+
+#: partials/part-sliders.php:259
+msgid "Explore the fun"
+msgstr ""
+
+#: inc/td-upload-event-form.php:958 templates/template-edit-event.php:1779
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:2274 templates/template-my-account.php:2088
+msgid "Facebook link"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:48
+msgid "Featured"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1081
+msgid "Featured Listing Slots:"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:203
+msgid "February"
+msgstr ""
+
+#: functions.php:486
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: functions.php:506
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: functions.php:496
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: partials/part-login-register.php:160
+msgid "Forgot Password"
+msgstr ""
+
+#: inc/td-upload-event-form.php:970 templates/template-edit-event.php:1791
+msgid "Foursquare"
+msgstr ""
+
+#: partials/part-login-register.php:482 payment/form-check.php:72
+#: templates/template-price-plans.php:100
+#: inc/shortcodes/td-shortcode-price-plans.php:47
+#: inc/payments/free/td-free-payment.php:74
+#: inc/payments/free/td-free-payment.php:234
+#: inc/payments/paypal/form-handler.php:70
+#: inc/payments/stripe/td-stripe-payment.php:47
+msgid "Free"
+msgstr ""
+
+#: partials/part-login-register.php:52
+msgid "From:"
+msgstr ""
+
+#: inc/td-upload-event-form.php:262 templates/template-edit-event.php:879
+#: templates/template-my-account.php:1193
+#: templates/template-price-plans.php:219
+#: inc/shortcodes/td-shortcode-price-plans.php:188
+msgid "Gallery"
+msgstr ""
+
+#: templates/template-contact.php:264
+msgid "Get in Touch"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1227 templates/template-edit-event.php:2055
+msgid "Google Map Address"
+msgstr ""
+
+#: inc/td-upload-event-form.php:982 templates/template-edit-event.php:1803
+msgid "Google+"
+msgstr ""
+
+#: functions.php:2304 templates/template-my-account.php:2118
+msgid "Google+ link"
+msgstr ""
+
+#: taxonomy-event_cat.php:113 taxonomy-event_loc.php:112
+#: taxonomy-event_tag.php:84 templates/template-all-events.php:169
+#: templates/template-past-events.php:84
+msgid "Grid View"
+msgstr ""
+
+#: partials/part-login-register.php:46
+msgid "Here's what you bought:"
+msgstr ""
+
+#: partials/part-header-one.php:161 templates/template-my-account.php:30
+msgid "Hi"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:60 taxonomy-event_loc-version-2.php:60
+#: templates/template-all-events-version-2.php:154
+#: templates/template-past-events-version-2.php:154
+msgid "Hide Map"
+msgstr ""
+
+#: inc/td-menu-walker.php:220
+msgid "Hide title (optional)"
+msgstr ""
+
+#. URI of the theme
+msgid "http://themeforest.net"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://themesdojo.com"
+msgstr ""
+
+#: single-event.php:63 templates/template-contact.php:241
+msgid "Human test. Please input the result of 5+3=?"
+msgstr ""
+
+#: functions.php:1251 functions.php:1452
+msgid "Icon Code"
+msgstr ""
+
+#: partials/part-sliders.php:163
+msgid "If you are the admin, please setup \"all events\" page in backend."
+msgstr ""
+
+#: inc/lib/td-post-meta.php:14
+msgid "Input your link"
+msgstr ""
+
+#: widgets/td_video_widget.php:14
+msgid "Insert your embedded code in here!"
+msgstr ""
+
+#: inc/lib/td-post-meta.php:21
+msgid "Insert your link URL, e.g. http://www.alexgurghis.com."
+msgstr ""
+
+#: templates/template-my-account.php:1091
+#: templates/template-price-plans.php:121
+#: inc/shortcodes/td-shortcode-price-plans.php:68
+msgid "Instant"
+msgstr ""
+
+#: single-event.php:1941
+msgid "Involvement"
+msgstr ""
+
+#: 404.php:71
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: templates/template-all-events-by-month.php:202
+msgid "January"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:208
+msgid "July"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:207
+msgid "June"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:137 taxonomy-event_cat-version-3.php:83
+#: taxonomy-event_cat.php:195 taxonomy-event_loc-version-2.php:137
+#: taxonomy-event_loc-version-3.php:83 taxonomy-event_loc.php:194
+#: taxonomy-event_tag.php:726 partials/part-sliders.php:275
+#: templates/template-all-events-version-2.php:231
+#: templates/template-all-events-version-3.php:177
+#: templates/template-past-events-version-2.php:231
+#: templates/template-past-events-version-3.php:177
+#: templates/template-past-events.php:166
+msgid "Keywords"
+msgstr ""
+
+#: inc/td-page-meta.php:40
+msgid "LayerSlider"
+msgstr ""
+
+#: inc/td-page-meta.php:49
+msgid "LayeSlider Shortcode"
+msgstr ""
+
+#: inc/td-menu-walker.php:244
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/lib/td-post-meta.php:13
+msgid "Link Settings"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1030 templates/template-edit-event.php:1851
+msgid "Linkedin"
+msgstr ""
+
+#: taxonomy-event_cat.php:111 taxonomy-event_loc.php:110
+#: taxonomy-event_tag.php:82 templates/template-all-events.php:167
+#: templates/template-past-events.php:82
+msgid "List View"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:698 inc/td-my-account-pagination.php:1225
+#: templates/template-my-account.php:600 templates/template-my-account.php:1618
+msgid "Listing"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:156 taxonomy-event_cat-version-3.php:102
+#: taxonomy-event_cat.php:214
+msgid "Locate me"
+msgstr ""
+
+#: taxonomy-event_loc-version-2.php:121 taxonomy-event_loc-version-3.php:67
+#: taxonomy-event_loc.php:98
+msgid "Location"
+msgstr ""
+
+#: templates/template-edit-event.php:308
+#: templates/template-upload-event.php:432
+msgid "Location:"
+msgstr ""
+
+#: partials/part-header-one.php:173 partials/part-header-two.php:41
+msgid "Log out"
+msgstr ""
+
+#: partials/part-header-one.php:181 partials/part-header-two.php:46
+#: partials/part-login-register.php:127 partials/part-login-register.php:184
+msgid "Login"
+msgstr ""
+
+#: partials/part-login-register.php:192
+msgid "Login successful."
+msgstr ""
+
+#: templates/template-my-account.php:1295
+#: templates/template-upload-event.php:237
+msgid "Looks like you have no active plan at the moment."
+msgstr ""
+
+#: templates/template-edit-event.php:238
+#: templates/template-upload-event.php:362
+msgid "Main Settings"
+msgstr ""
+
+#: single-event.php:1657 inc/td-upload-event-form.php:1208
+#: templates/template-edit-event.php:2036
+#: templates/template-my-account.php:1208
+#: templates/template-price-plans.php:229
+#: inc/shortcodes/td-shortcode-price-plans.php:198
+msgid "Map"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:204
+msgid "March"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:206
+msgid "May"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1090 templates/template-edit-event.php:1911
+msgid "Medium"
+msgstr ""
+
+#: inc/td-menu-walker.php:214
+msgid "Megamenu (optional and only if it's level 1)"
+msgstr ""
+
+#: single-event.php:71
+msgid "Message from"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:201
+msgid "Month"
+msgstr ""
+
+#: archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/td-menu-walker.php:188
+msgid "Move down"
+msgstr ""
+
+#: inc/td-menu-walker.php:175
+msgid "Move up"
+msgstr ""
+
+#: partials/part-header-one.php:172 partials/part-header-two.php:35
+msgid "My Account"
+msgstr ""
+
+#: templates/template-my-account.php:97 templates/template-my-account.php:908
+msgid "My Active Plans"
+msgstr ""
+
+#: templates/template-my-account.php:95 templates/template-my-account.php:151
+msgid "My Events"
+msgstr ""
+
+#: templates/template-my-account.php:96 templates/template-my-account.php:521
+msgid "My Favorites"
+msgstr ""
+
+#: single-event.php:2587
+msgid "Name"
+msgstr ""
+
+#: single-event.php:51
+msgid "Name*"
+msgstr ""
+
+#: inc/td-menu-walker.php:208
+msgid "Navigation Label"
+msgstr ""
+
+#: functions.php:477
+msgid "Navigation Sidebar"
+msgstr ""
+
+#: inc/custom-posts/td-post-schedule.php:10
+msgid "New Day"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:277 inc/td-my-account-pagination.php:596
+#: inc/td-my-account-pagination.php:924 inc/td-my-account-pagination.php:1132
+#: inc/td-my-account-pagination.php:1412 templates/template-my-account.php:441
+#: templates/template-my-account.php:826 templates/template-my-account.php:1459
+#: templates/template-my-account.php:1805
+msgid "Next »"
+msgstr ""
+
+#: inc/custom-posts/td-post-schedule.php:13
+msgid "No Days found"
+msgstr ""
+
+#: inc/custom-posts/td-post-schedule.php:14
+msgid "No Days found in Trash"
+msgstr ""
+
+#: single-event.php:119 templates/template-contact.php:325
+msgid "No email, no message."
+msgstr ""
+
+#: inc/td-events-upcoming-filter.php:338
+#: templates/template-all-events-by-month.php:583
+#: inc/shortcodes/td-shortcode-upcoming-events-v2.php:228
+msgid "No events found."
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:927 taxonomy-event_cat.php:1101
+#: taxonomy-event_cat.php:1325 taxonomy-event_loc-version-2.php:947
+#: taxonomy-event_loc.php:1111 taxonomy-event_loc.php:1335
+#: taxonomy-event_place.php:350 taxonomy-event_tag.php:433
+#: taxonomy-event_tag.php:706
+#: partials/part-filter-events-grid-full-width.php:549
+#: partials/part-filter-events-grid-full-width.php:561
+#: partials/part-filter-events-grid-sidebar.php:549
+#: partials/part-filter-events-grid-sidebar.php:561
+#: partials/part-filter-events-list.php:659
+#: partials/part-filter-events-list.php:671
+#: partials/part-filter-past-events-grid-full-width.php:549
+#: partials/part-filter-past-events-grid-full-width.php:561
+#: partials/part-filter-past-events-grid-sidebar.php:549
+#: partials/part-filter-past-events-grid-sidebar.php:561
+#: partials/part-filter-past-events-list.php:659
+#: partials/part-filter-past-events-list.php:671
+#: templates/template-all-events-version-2.php:1076
+#: templates/template-all-events.php:1213
+#: templates/template-all-events.php:1440
+#: templates/template-past-events-version-2.php:1076
+#: templates/template-past-events.php:1130
+#: templates/template-past-events.php:1357
+#: inc/shortcodes/td-shortcode-upcoming-events.php:195
+msgid "No listings found."
+msgstr ""
+
+#: single-event.php:527
+msgid "No Ratings Yet"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:124 taxonomy-event_cat-version-3.php:70
+#: taxonomy-event_cat.php:187 taxonomy-event_loc-version-2.php:124
+#: taxonomy-event_loc-version-3.php:70 taxonomy-event_loc.php:186
+#: taxonomy-event_tag.php:69 partials/part-sliders.php:262
+#: templates/template-all-events-version-2.php:218
+#: templates/template-all-events-version-3.php:164
+#: templates/template-past-events-version-2.php:218
+#: templates/template-past-events-version-3.php:164
+#: templates/template-past-events.php:158
+msgid "No Results Found"
+msgstr ""
+
+#: single-event.php:2401
+msgid "No reviews, yet."
+msgstr ""
+
+#: inc/td-page-meta.php:36
+msgid "None"
+msgstr ""
+
+#: 404.php:21
+msgid "Not found"
+msgstr ""
+
+#: search.php:287
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:212
+msgid "November"
+msgstr ""
+
+#: templates/template-edit-event.php:388
+#: templates/template-upload-event.php:512
+msgid "Number of seats:"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:211
+msgid "October"
+msgstr ""
+
+#: templates/template-edit-event.php:149 templates/template-my-account.php:30
+#: templates/template-upload-event.php:30
+msgid "Ooops"
+msgstr ""
+
+#: inc/td-menu-walker.php:233
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/td-menu-walker.php:268
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: taxonomy-event_place.php:486
+msgid "Other Places near at "
+msgstr ""
+
+#: single-event.php:2215
+msgid "Overall rating from"
+msgstr ""
+
+#: search.php:93
+msgid "Page"
+msgstr ""
+
+#: functions.php:459
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/td-page-meta.php:32
+msgid "Page slider"
+msgstr ""
+
+#: functions.php:1228 functions.php:1332 functions.php:1429 functions.php:1538
+msgid "Page template"
+msgstr ""
+
+#: single-event.php:2087 inc/td-upload-event-form.php:638
+#: templates/template-edit-event.php:1374
+#: inc/shortcodes/td-shortcode-partners.php:70
+msgid "Partners"
+msgstr ""
+
+#: templates/template-my-account.php:2072
+msgid "Password"
+msgstr ""
+
+#: partials/part-login-register.php:245 partials/part-login-register.php:258
+msgid "Password doesn’t exists. Please try another one."
+msgstr ""
+
+#: partials/part-login-register.php:149 partials/part-login-register.php:386
+msgid "Password:"
+msgstr ""
+
+#: inc/lib/td-post-meta.php:41 inc/lib/td-post-meta.php:61
+msgid "Paste the embed code here. Width is best at 1060px with any height."
+msgstr ""
+
+#: partials/part-login-register.php:938
+msgid "Pay via PayPal"
+msgstr ""
+
+#: partials/part-login-register.php:810
+msgid "Pay with Card"
+msgstr ""
+
+#: partials/part-login-register.php:17
+msgid "Payment Details"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:69 inc/td-my-account-pagination.php:356
+#: templates/template-my-account.php:201
+msgid "Pending"
+msgstr ""
+
+#: templates/template-my-account.php:106 templates/template-my-account.php:1549
+msgid "Pending Items"
+msgstr ""
+
+#: inc/td-upload-event-form.php:889 templates/template-edit-event.php:1710
+msgid "Phone"
+msgstr ""
+
+#: single-event.php:632
+msgid "Photo Gallery"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1042 templates/template-edit-event.php:1863
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:1679
+msgid "Place Cover Imagee"
+msgstr ""
+
+#: templates/template-edit-event.php:347
+#: templates/template-upload-event.php:471
+msgid "Place Name (Building/Facility):"
+msgstr ""
+
+#: templates/template-my-account.php:1049
+msgid "Plan Status"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1117 templates/template-my-account.php:1444
+msgid "plans you've chosen to use."
+msgstr ""
+
+#: single-event.php:2647 partials/part-login-register.php:1097
+#: partials/part-login-register.php:1323 templates/template-edit-event.php:2338
+#: templates/template-upload-event.php:766
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: partials/part-login-register.php:1106 templates/template-my-account.php:2180
+msgid "Please enter the same password as above"
+msgstr ""
+
+#: templates/template-edit-event.php:208 templates/template-my-account.php:87
+#: templates/template-upload-event.php:89
+msgid "Please login."
+msgstr ""
+
+#: single-event.php:2642 templates/template-edit-event.php:2333
+#: templates/template-upload-event.php:761
+msgid "Please provide a name"
+msgstr ""
+
+#: partials/part-login-register.php:222 partials/part-login-register.php:1100
+#: partials/part-login-register.php:1104
+msgid "Please provide a password"
+msgstr ""
+
+#: templates/template-edit-event.php:2341
+#: templates/template-upload-event.php:769
+msgid "Please provide a place"
+msgstr ""
+
+#: templates/template-edit-event.php:2344
+#: templates/template-upload-event.php:772
+msgid "Please provide a starting date"
+msgstr ""
+
+#: templates/template-edit-event.php:2347
+#: templates/template-upload-event.php:775
+msgid "Please provide a starting time"
+msgstr ""
+
+#: partials/part-login-register.php:218 partials/part-login-register.php:1092
+msgid "Please provide a username"
+msgstr ""
+
+#: templates/template-edit-event.php:2356
+#: templates/template-upload-event.php:784
+msgid "Please provide an address"
+msgstr ""
+
+#: single-event.php:2646 partials/part-login-register.php:1096
+#: partials/part-login-register.php:1322 templates/template-edit-event.php:2337
+#: templates/template-upload-event.php:765
+msgid "Please provide an email address"
+msgstr ""
+
+#: templates/template-edit-event.php:2350
+#: templates/template-upload-event.php:778
+msgid "Please provide an end date"
+msgstr ""
+
+#: templates/template-edit-event.php:2353
+#: templates/template-upload-event.php:781
+msgid "Please provide an end time"
+msgstr ""
+
+#: partials/part-login-register.php:701 partials/part-login-register.php:843
+msgid "Please wait. Update in progress."
+msgstr ""
+
+#: templates/template-my-account.php:1218
+#: templates/template-price-plans.php:239
+msgid "Pnone Number"
+msgstr ""
+
+#: inc/custom-posts/td-post-schedule.php:5
+msgctxt "post type general name"
+msgid "Schedule"
+msgstr ""
+
+#: inc/custom-posts/td-post-schedule.php:6
+msgctxt "post type singular name"
+msgid "Schedule"
+msgstr ""
+
+#: single-event.php:1973
+msgid "Preparation"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-price-plans.php:309
+msgid "Price Plans"
+msgstr ""
+
+#: partials/part-login-register.php:553
+msgid "Pricing Plans"
+msgstr ""
+
+#: functions.php:413
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:179 inc/td-my-account-pagination.php:494
+#: templates/template-my-account.php:339
+msgid "Publish"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:61 inc/td-my-account-pagination.php:348
+#: templates/template-my-account.php:193
+msgid "Published"
+msgstr ""
+
+#: templates/template-my-account.php:1183
+#: templates/template-price-plans.php:209
+#: inc/shortcodes/td-shortcode-price-plans.php:178
+msgid "Publishing"
+msgstr ""
+
+#: inc/lib/td-post-meta.php:80 inc/shortcodes/td-shortcode-quote.php:16
+#: inc/shortcodes/td-shortcode-quote.php:25
+#: inc/shortcodes/td-shortcode-quote.php:27
+msgid "Quote"
+msgstr ""
+
+#: inc/lib/td-post-meta.php:87
+msgid "Quote Author"
+msgstr ""
+
+#: inc/lib/td-post-meta.php:73
+msgid "Quote Settings"
+msgstr ""
+
+#: templates/template-my-account.php:1203
+#: templates/template-price-plans.php:224
+#: inc/shortcodes/td-shortcode-price-plans.php:193
+msgid "Ratings"
+msgstr ""
+
+#: archive.php:237 category.php:223 index.php:192 search.php:270
+#: templates/template-blog.php:237
+msgid "Read More"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-upcoming-events.php:211
+msgid "Recent Listings"
+msgstr ""
+
+#: partials/part-header-one.php:182 partials/part-header-two.php:47
+#: partials/part-login-register.php:337 partials/part-login-register.php:668
+msgid "Register"
+msgstr ""
+
+#: partials/part-login-register.php:1210
+msgid "Registration has been disabled."
+msgstr ""
+
+#: partials/part-login-register.php:990
+msgid "Registration successful."
+msgstr ""
+
+#: inc/td-my-account-pagination.php:54
+msgid "Regular"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1055
+msgid "Regular Listing Slots:"
+msgstr ""
+
+#: single-event.php:2738
+msgid "Related by Category"
+msgstr ""
+
+#: single-event.php:2914
+msgid "Related by Location"
+msgstr ""
+
+#: partials/part-login-register.php:159
+msgid "Remember me"
+msgstr ""
+
+#: inc/td-menu-walker.php:281
+msgid "Remove"
+msgstr ""
+
+#: templates/template-my-account.php:2080
+msgid "Repeat Password"
+msgstr ""
+
+#: partials/part-login-register.php:391
+msgid "Repeat Password:"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:495 taxonomy-event_cat-version-3.php:442
+#: taxonomy-event_cat.php:634 taxonomy-event_loc-version-2.php:515
+#: taxonomy-event_loc-version-3.php:461 taxonomy-event_loc.php:652
+#: taxonomy-event_tag.php:1239 partials/part-sliders.php:695
+#: templates/template-all-events-version-2.php:651
+#: templates/template-all-events-version-3.php:597
+#: templates/template-past-events-version-2.php:651
+#: templates/template-past-events-version-3.php:597
+#: templates/template-past-events.php:666
+msgid "Reset"
+msgstr ""
+
+#: partials/part-login-register.php:1266
+msgid "Reset Password"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:124 taxonomy-event_cat-version-3.php:70
+#: taxonomy-event_cat.php:187 taxonomy-event_loc-version-2.php:124
+#: taxonomy-event_loc-version-3.php:70 taxonomy-event_loc.php:186
+#: taxonomy-event_tag.php:69 partials/part-sliders.php:262
+#: templates/template-all-events-version-2.php:218
+#: templates/template-all-events-version-3.php:164
+#: templates/template-past-events-version-2.php:218
+#: templates/template-past-events-version-3.php:164
+#: templates/template-past-events.php:158
+msgid "Result Found"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:124 taxonomy-event_cat-version-3.php:70
+#: taxonomy-event_cat.php:187 taxonomy-event_loc-version-2.php:124
+#: taxonomy-event_loc-version-3.php:70 taxonomy-event_loc.php:186
+#: taxonomy-event_tag.php:69 partials/part-sliders.php:262
+#: templates/template-all-events-version-2.php:218
+#: templates/template-all-events-version-3.php:164
+#: templates/template-past-events-version-2.php:218
+#: templates/template-past-events-version-3.php:164
+#: templates/template-past-events.php:158
+msgid "Results Found"
+msgstr ""
+
+#: functions.php:1242 functions.php:1443
+msgid "Review fields"
+msgstr ""
+
+#: single-event.php:2215
+msgid "reviewers"
+msgstr ""
+
+#: single-event.php:2214
+msgid "Reviews"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1402 templates/template-edit-event.php:2224
+msgid "Save as Draft"
+msgstr ""
+
+#: templates/template-edit-event.php:614
+msgid "Say something about Event Schedule!"
+msgstr ""
+
+#: inc/custom-posts/td-post-schedule.php:12
+msgid "Search Days"
+msgstr ""
+
+#: inc/td-page-meta.php:37
+msgid "Search Events Block"
+msgstr ""
+
+#: functions.php:2170
+msgid "Search for:"
+msgstr ""
+
+#: search.php:23
+msgid "Search results for: "
+msgstr ""
+
+#: templates/template-upload-event.php:113
+msgid "Select Event Slot"
+msgstr ""
+
+#: inc/td-page-meta.php:42
+msgid "Select page slider."
+msgstr ""
+
+#: templates/template-my-account.php:938 templates/template-price-plans.php:340
+#: inc/shortcodes/td-shortcode-price-plans.php:277
+msgid "Select Payment System"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-title-section.php:54
+msgid "Select text align."
+msgstr ""
+
+#: single-event.php:78
+msgid "Send Message"
+msgstr ""
+
+#: functions.php:1246 functions.php:1447
+msgid "Separated by comma."
+msgstr ""
+
+#: templates/template-all-events-by-month.php:210
+msgid "Setpember"
+msgstr ""
+
+#: single-event.php:557
+msgid "Share"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:58 taxonomy-event_cat.php:109
+#: taxonomy-event_loc-version-2.php:58 taxonomy-event_loc.php:108
+#: taxonomy-event_tag.php:80 templates/template-all-events-version-2.php:152
+#: templates/template-all-events.php:165
+#: templates/template-past-events-version-2.php:152
+#: templates/template-past-events.php:80
+msgid "Show Map"
+msgstr ""
+
+#: partials/part-sliders.php:152
+msgid "Show me the fun!"
+msgstr ""
+
+#: templates/template-price-plans.php:271
+#: inc/shortcodes/td-shortcode-price-plans.php:210
+msgid "Sign up & start publishing now"
+msgstr ""
+
+#: templates/template-upload-event.php:319
+msgid "Slot available. Loading form."
+msgstr ""
+
+#: templates/template-upload-event.php:299
+#: templates/template-upload-event.php:814
+msgid "Slot is not available anymore, please reload and select another one."
+msgstr ""
+
+#: templates/template-upload-event.php:216
+msgid "Slots available for"
+msgstr ""
+
+#: inc/td-upload-event-form.php:939 templates/template-edit-event.php:1760
+#: templates/template-my-account.php:1228
+#: templates/template-price-plans.php:249
+msgid "Social Links"
+msgstr ""
+
+#: partials/part-login-register.php:1008
+msgid ""
+"Something went wrong with payment, try refreshing and submitting the form "
+"again."
+msgstr ""
+
+#: partials/part-login-register.php:996
+msgid ""
+"Something went wrong with registration, try refreshing and submitting the "
+"form again."
+msgstr ""
+
+#: templates/template-upload-event.php:303
+msgid "Something went wrong, please reload."
+msgstr ""
+
+#: single-event.php:91 partials/part-login-register.php:198
+#: partials/part-login-register.php:1306 templates/template-contact.php:195
+#: templates/template-my-account.php:1963
+msgid "Something went wrong, try refreshing and submitting the form again."
+msgstr ""
+
+#: single-event.php:2479 templates/template-edit-event.php:2387
+msgid "Something went wrong. Please reload and try again."
+msgstr ""
+
+#: partials/part-login-register.php:70
+msgid "Sorry, but your card was declined and your payment was not processed."
+msgstr ""
+
+#: search.php:288
+msgid "Sorry, no posts matched your criteria. Try another search?"
+msgstr ""
+
+#: single-event.php:125 templates/template-contact.php:334
+msgid "Sorry, wrong answer!"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1102 templates/template-edit-event.php:1923
+msgid "SoundCloud"
+msgstr ""
+
+#: inc/td-upload-event-form.php:477 templates/template-edit-event.php:1125
+msgid "Speakers"
+msgstr ""
+
+#: single-event.php:521
+msgid "Stars Rated"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1234 templates/template-edit-event.php:2062
+msgid "Start typing an address and select from the dropdown."
+msgstr ""
+
+#: single-event.php:248
+msgid "Starts:"
+msgstr ""
+
+#: inc/td-upload-event-form.php:814 templates/template-edit-event.php:1635
+msgid "State"
+msgstr ""
+
+#: archive.php:113 category.php:99 index.php:68 search.php:146 single.php:81
+#: templates/template-blog.php:113
+msgid "Sticky"
+msgstr ""
+
+#: single-event.php:1655 templates/template-my-account.php:1213
+#: templates/template-price-plans.php:234
+msgid "Streetview"
+msgstr ""
+
+#: templates/template-contact.php:221
+msgid "Subject"
+msgstr ""
+
+#: partials/part-login-register.php:1292
+msgid "Submit"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1435 templates/template-edit-event.php:2257
+msgid "Submit for Review"
+msgstr ""
+
+#: single-event.php:2611
+msgid "Submit Review"
+msgstr ""
+
+#: single-event.php:2423
+msgid "Submit Your Review"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-title-section.php:38
+msgid "Subtitle"
+msgstr ""
+
+#: partials/part-login-register.php:1002
+msgid "Successful payment."
+msgstr ""
+
+#: single-event.php:2132 taxonomy-event_tag.php:66
+#: templates/template-edit-event.php:1985
+#: templates/template-edit-event.php:2004
+msgid "Tags"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-testimonials.php:75
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/td_video_widget.php:28
+msgid "Text"
+msgstr ""
+
+#: single-event.php:2473
+msgid "Thank you for your review."
+msgstr ""
+
+#: single-event.php:87
+msgid "Thank you! We will get back to you as soon as possible."
+msgstr ""
+
+#: inc/td-menu-walker.php:252
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/lib/td-post-meta.php:20
+msgid "The Link"
+msgstr ""
+
+#: widgets/td_video_widget.php:15
+msgid "ThemesDojo - Embedded Video"
+msgstr ""
+
+#: widgets/td_upcoming_events.php:16
+msgid "ThemesDojo - Upcoming Events Widget"
+msgstr ""
+
+#: widgets/td_upcoming_events.php:15
+msgid "ThemesDojo Recent Posts Widget"
+msgstr ""
+
+#: partials/part-login-register.php:1336
+msgid "There is no user available for this email."
+msgstr ""
+
+#: inc/lib/td-post-meta.php:74
+msgid "These settings enable you to add quote into your posts."
+msgstr ""
+
+#: inc/lib/td-post-meta.php:54
+msgid "These settings enable you to embed audio soundcloud into your posts."
+msgstr ""
+
+#: inc/lib/td-post-meta.php:34
+msgid "These settings enable you to embed videos into your posts."
+msgstr ""
+
+#: 404.php:70
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:148 taxonomy-event_cat-version-3.php:94
+#: taxonomy-event_cat.php:206 taxonomy-event_loc-version-2.php:148
+#: taxonomy-event_loc-version-3.php:94 taxonomy-event_loc.php:205
+#: taxonomy-event_tag.php:737 partials/part-sliders.php:68
+#: partials/part-sliders.php:286
+#: templates/template-all-events-version-2.php:242
+#: templates/template-all-events-version-3.php:188
+#: templates/template-past-events-version-2.php:242
+#: templates/template-past-events-version-3.php:188
+#: templates/template-past-events.php:177
+msgid "This Month"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:147 taxonomy-event_cat-version-3.php:93
+#: taxonomy-event_cat.php:205 taxonomy-event_loc-version-2.php:147
+#: taxonomy-event_loc-version-3.php:93 taxonomy-event_loc.php:204
+#: taxonomy-event_tag.php:736 partials/part-sliders.php:67
+#: partials/part-sliders.php:285
+#: templates/template-all-events-version-2.php:241
+#: templates/template-all-events-version-3.php:187
+#: templates/template-past-events-version-2.php:241
+#: templates/template-past-events-version-3.php:187
+#: templates/template-past-events.php:176
+msgid "This Week"
+msgstr ""
+
+#: widgets/td_video_widget.php:27
+#: inc/shortcodes/td-shortcode-title-section.php:29
+#: inc/shortcodes/td-shortcode-title-section.php:31
+msgid "Title"
+msgstr ""
+
+#: inc/td-menu-walker.php:226
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-title-section.php:20
+msgid "Title Section"
+msgstr ""
+
+#: templates/template-edit-event.php:257
+#: templates/template-upload-event.php:381
+msgid "Title:"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:146 taxonomy-event_cat-version-3.php:92
+#: taxonomy-event_cat.php:204 taxonomy-event_loc-version-2.php:146
+#: taxonomy-event_loc-version-3.php:92 taxonomy-event_loc.php:203
+#: taxonomy-event_tag.php:735 partials/part-sliders.php:66
+#: partials/part-sliders.php:284
+#: templates/template-all-events-version-2.php:240
+#: templates/template-all-events-version-3.php:186
+#: templates/template-past-events-version-2.php:240
+#: templates/template-past-events-version-3.php:186
+#: templates/template-past-events.php:175
+msgid "Today"
+msgstr ""
+
+#: functions.php:414
+msgid "Top Menu"
+msgstr ""
+
+#: partials/part-login-register.php:58
+msgid "Total Paid:"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1105 partials/part-login-register.php:71
+#: templates/template-my-account.php:1432
+msgid "Transaction ID:"
+msgstr ""
+
+#: templates/template-my-account.php:98 templates/template-my-account.php:1307
+msgid "Transactions"
+msgstr ""
+
+#: single-event.php:1997
+msgid "Transformation"
+msgstr ""
+
+#: search.php:294
+msgid "Try a similar keyword, for example: tablet instead of laptop."
+msgstr ""
+
+#: search.php:295
+msgid "Try using more than one keyword."
+msgstr ""
+
+#: inc/td-upload-event-form.php:1054 templates/template-edit-event.php:1875
+msgid "Tumblr"
+msgstr ""
+
+#: inc/td-upload-event-form.php:994 templates/template-edit-event.php:1815
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:2289 templates/template-my-account.php:2103
+msgid "Twitter link"
+msgstr ""
+
+#: functions.php:2170
+msgid "Type and hit enter ..."
+msgstr ""
+
+#: single-event.php:2581
+msgid "Type here your review"
+msgstr ""
+
+#: templates/template-contact.php:231
+msgid "Type your message here ..."
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1018 templates/template-my-account.php:1002
+#: templates/template-my-account.php:1377
+#: inc/shortcodes/td-shortcode-price-plans.php:87
+msgid "Unlimited"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:137 inc/td-my-account-pagination.php:452
+#: templates/template-my-account.php:297
+msgid "Unpublish"
+msgstr ""
+
+#: taxonomy-event_place.php:87
+msgid "Upcoming events at "
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-upcoming-events-v2.php:244
+msgid "Upcoming Events V2"
+msgstr ""
+
+#: templates/template-edit-event.php:2245
+msgid "Update"
+msgstr ""
+
+#: templates/template-edit-event.php:2214
+msgid "Update Event"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:493 taxonomy-event_cat-version-3.php:440
+#: taxonomy-event_cat.php:632 taxonomy-event_loc-version-2.php:513
+#: taxonomy-event_loc-version-3.php:459 taxonomy-event_loc.php:650
+#: taxonomy-event_tag.php:1237 partials/part-sliders.php:693
+#: templates/template-all-events-version-2.php:649
+#: templates/template-all-events-version-3.php:595
+#: templates/template-past-events-version-2.php:649
+#: templates/template-past-events-version-3.php:595
+#: templates/template-past-events.php:664
+msgid "Update Listings"
+msgstr ""
+
+#: templates/template-my-account.php:2146
+msgid "Update Settings"
+msgstr ""
+
+#: inc/td-upload-event-form.php:294 inc/td-upload-event-form.php:367
+#: inc/td-upload-event-form.php:514 inc/td-upload-event-form.php:675
+#: inc/td-upload-event-form.php:1423 templates/template-edit-event.php:935
+#: templates/template-edit-event.php:1014
+#: templates/template-edit-event.php:1170
+#: templates/template-edit-event.php:1251
+#: templates/template-edit-event.php:1420
+#: templates/template-edit-event.php:1496
+msgid "Upload"
+msgstr ""
+
+#: functions.php:2340
+msgid "Upload an additional image for your user profile."
+msgstr ""
+
+#: inc/td-upload-event-form.php:1392
+msgid "Upload Event"
+msgstr ""
+
+#: functions.php:2339 inc/td-upload-event-form.php:185
+#: templates/template-edit-event.php:789 templates/template-edit-event.php:803
+#: templates/template-my-account.php:1994
+msgid "Upload Image"
+msgstr ""
+
+#: inc/td-menu-walker.php:201
+msgid "URL"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1061 inc/td-my-account-pagination.php:1087
+#: templates/template-my-account.php:1420
+msgid "used and "
+msgstr ""
+
+#: partials/part-login-register.php:236 partials/part-login-register.php:254
+msgid "Username doesn’t exists. Please try another one."
+msgstr ""
+
+#: partials/part-login-register.php:1125 partials/part-login-register.php:1143
+msgid "Username exists. Please try another one."
+msgstr ""
+
+#: partials/part-login-register.php:141 partials/part-login-register.php:366
+msgid "Username:"
+msgstr ""
+
+#: functions.php:1234 functions.php:1338 functions.php:1435 functions.php:1544
+msgid "Version 2 (map on top)"
+msgstr ""
+
+#: functions.php:1235 functions.php:1339 functions.php:1436 functions.php:1545
+msgid "Version 3 (big map)"
+msgstr ""
+
+#: inc/td-page-meta.php:39 inc/td-upload-event-form.php:1143
+#: templates/template-edit-event.php:1964
+#: templates/template-my-account.php:1243
+#: templates/template-price-plans.php:259
+msgid "Video"
+msgstr ""
+
+#: single-event.php:2033 inc/td-upload-event-form.php:1124
+#: templates/template-edit-event.php:1945
+msgid "Video Presentation"
+msgstr ""
+
+#: inc/lib/td-post-meta.php:33
+msgid "Video Settings"
+msgstr ""
+
+#: inc/shortcodes/td-shortcode-upcoming-events-v2.php:220
+msgid "View All Events"
+msgstr ""
+
+#: inc/custom-posts/td-post-schedule.php:11
+msgid "View Day"
+msgstr ""
+
+#: search.php:113
+msgid "View Page"
+msgstr ""
+
+#: templates/template-my-account.php:1051
+msgid "View Plan Details"
+msgstr ""
+
+#: single-event.php:549 inc/td-my-account-pagination.php:129
+#: inc/td-my-account-pagination.php:444 inc/td-my-account-pagination.php:779
+#: inc/td-my-account-pagination.php:1306 templates/template-my-account.php:289
+#: templates/template-my-account.php:681 templates/template-my-account.php:1699
+msgid "Views"
+msgstr ""
+
+#: templates/template-edit-event.php:212
+msgid "We are sorry but this isn't your listing."
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1117 templates/template-my-account.php:1444
+msgid "We haven't registered any transaction movement until now."
+msgstr ""
+
+#: templates/template-contact.php:328
+msgid "We need a subject here."
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1117 templates/template-my-account.php:1444
+msgid "We'll certainly show up here the"
+msgstr ""
+
+#: inc/td-upload-event-form.php:917 templates/template-edit-event.php:1738
+#: templates/template-my-account.php:1223
+#: templates/template-price-plans.php:244
+msgid "Website"
+msgstr ""
+
+#: templates/template-my-account.php:1295
+#: templates/template-upload-event.php:237
+msgid "Well,"
+msgstr ""
+
+#: partials/part-sliders.php:80 partials/part-sliders.php:296
+#: templates/template-all-events-by-month.php:115
+msgid "What"
+msgstr ""
+
+#: single-event.php:2206 single-event.php:2395
+msgid "What Are People Saying"
+msgstr ""
+
+#: partials/part-sliders.php:65 partials/part-sliders.php:283
+msgid "When"
+msgstr ""
+
+#: partials/part-sliders.php:117 partials/part-sliders.php:331
+#: templates/template-all-events-by-month.php:80
+msgid "Where"
+msgstr ""
+
+#: templates/template-my-account.php:1233
+msgid "Working Hours"
+msgstr ""
+
+#: templates/template-all-events-by-month.php:150
+msgid "Year"
+msgstr ""
+
+#: archive.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: functions.php:270
+msgid ""
+"You can see the demo page here: <a href=\"http://wpeventbuilder.com/\" "
+"target=\"_blank\">http://wpeventbuilder.com/</a>"
+msgstr ""
+
+#: single-event.php:116 templates/template-contact.php:322
+msgid "You have a name don’t you?"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:909 templates/template-my-account.php:811
+msgid "You have no favorite listings at the moment."
+msgstr ""
+
+#: inc/td-my-account-pagination.php:262 inc/td-my-account-pagination.php:581
+#: templates/template-my-account.php:426
+msgid "You have no listings at the moment."
+msgstr ""
+
+#: inc/td-my-account-pagination.php:1397 templates/template-my-account.php:1790
+msgid "You have no pending items at the moment."
+msgstr ""
+
+#: single-event.php:122 templates/template-contact.php:331
+msgid "You have to write something to send this form."
+msgstr ""
+
+#: search.php:291
+msgid ""
+"You might want to consider some of our suggestions to get better results:"
+msgstr ""
+
+#: taxonomy-event_cat-version-2.php:705 taxonomy-event_cat-version-3.php:649
+#: taxonomy-event_cat.php:820 taxonomy-event_loc-version-2.php:725
+#: taxonomy-event_loc-version-3.php:668 taxonomy-event_loc.php:837
+#: taxonomy-event_place.php:109 taxonomy-event_tag.php:156
+#: partials/part-sliders.php:892 templates/home-euvoula.php:123
+#: templates/template-all-events-version-2.php:851
+#: templates/template-all-events-version-3.php:793
+#: templates/template-all-events.php:936
+#: templates/template-past-events-version-2.php:851
+#: templates/template-past-events-version-3.php:793
+#: templates/template-past-events.php:853
+msgid ""
+"Your browser does not support JavaScript, or it is disabled. JavaScript must "
+"be enabled in order to view listings."
+msgstr ""
+
+#: templates/template-contact.php:215
+msgid "Your Email"
+msgstr ""
+
+#: templates/template-contact.php:209
+msgid "Your Name"
+msgstr ""
+
+#: single-event.php:2643 templates/template-edit-event.php:2334
+#: templates/template-upload-event.php:762
+msgid "Your name must be at least 3 characters long"
+msgstr ""
+
+#: partials/part-login-register.php:223 partials/part-login-register.php:1101
+#: partials/part-login-register.php:1105 templates/template-my-account.php:2176
+#: templates/template-my-account.php:2179
+msgid "Your password must be at least 6 characters long"
+msgstr ""
+
+#: partials/part-login-register.php:60
+msgid "Your transaction ID is:"
+msgstr ""
+
+#: partials/part-login-register.php:219 partials/part-login-register.php:1093
+msgid "Your username must be at least 3 characters long"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1066 templates/template-edit-event.php:1887
+msgid "YouTube"
+msgstr ""
+
+#: inc/td-upload-event-form.php:1144 templates/template-edit-event.php:1965
+msgid "YouTube & Vimeo embedded code."
+msgstr ""
+
+#: inc/td-page-meta.php:71
+msgid "Youtube video background id"
+msgstr ""
+
+#: inc/td-page-meta.php:60
+msgid "Youtube video id"
+msgstr ""
+
+#: inc/td-upload-event-form.php:850 templates/template-edit-event.php:1671
+msgid "Zip Code"
+msgstr ""
+
+#: inc/td-my-account-pagination.php:276 inc/td-my-account-pagination.php:595
+#: inc/td-my-account-pagination.php:923 inc/td-my-account-pagination.php:1131
+#: inc/td-my-account-pagination.php:1411 templates/template-my-account.php:440
+#: templates/template-my-account.php:825 templates/template-my-account.php:1458
+#: templates/template-my-account.php:1804
+msgid "« Previous"
+msgstr ""
